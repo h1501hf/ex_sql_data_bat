@@ -1,1 +1,3 @@
-# ex_sql_data_bat
+# 处理来自 excel和数据库的数据
+# 实现excel和数据库的数据的相互关联，完成对数据的各种操作
+# 利用matplotlib对数据做分析
